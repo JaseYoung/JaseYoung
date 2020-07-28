@@ -6,6 +6,6 @@
 
 :wave: Hi There, My Name is Jason, Currently working as a senior application engineer for @LEGO. 
 
-I'm Technical Test Engineer, with experience testing web based software both front user interface and back end applications. Along with experience of testing React Native applications.
+I'm a Technical Test Engineer, with experience testing web based software both front user interface and back end applications. Along with experience of testing React Native applications.
 
 Using BDD and various testing tools to produce automation frameworks for various software settings. Developing frameworks currently within Javascript, Ruby, with the addition of numerous tools to coincide with these languages (Selenium, Cucumber, Cypress.io, Jest, Detox).
