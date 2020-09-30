@@ -13,9 +13,4 @@ I'm a Technical Test Engineer, with experience testing web based software both f
 
 👨‍💻 Using BDD and various testing tools to produce automation frameworks for various software settings. Developing frameworks currently within Javascript, Ruby, with the addition of numerous tools to coincide with these languages (Selenium, Cucumber, Cypress.io, Jest, Detox).
 
-
-
-
-[![JaseYoung github stats](https://github-readme-stats.vercel.app/api?username=JaseYoung&show_icons=true&theme=dracula&hide=contribs,issues)]()
-
-
+  <a href="https://github.com/JaseYoung"><img src="https://github-readme-stats.vercel.app/api?username=JaseYoung&show_icons=true&theme=dracula&hide=contribs,issues"></a>
