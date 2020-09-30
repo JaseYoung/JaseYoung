@@ -16,4 +16,4 @@ I'm a Technical Test Engineer, with experience testing web based software both f
 
 <img src="https://komarev.com/ghpvc/?username=JaseYoung" alt="JaseYoung" />
 
-[![JaseYoung github stats](https://github-readme-stats.vercel.app/api?username=JaseYoung&show_icons=true&theme=dracula&hide=contribs,issues)]
+[![JaseYoung github stats](https://github-readme-stats.vercel.app/api?username=JaseYoung&show_icons=true&theme=dracula&hide=contribs,issues)]()
