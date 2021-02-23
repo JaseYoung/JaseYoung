@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=JaseYoung&color=brightgreen" alt="JaseYoung" />
 
 
-:wave: Hi There, My Name is Jason, Currently working as a senior application engineer for @LEGO. 
+:wave: Hi There, My Name is Jason, Currently working as an Engineering Manager for @LEGO. 
 
 I'm a Technical Test Engineer, with experience testing web based software both front user interface and back end applications. Along with experience of testing React Native applications.
 
