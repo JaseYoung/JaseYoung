@@ -1,7 +1,7 @@
 # Jason Young
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/J5ONp?&logo=twitter&style=social&logoColor=4fc3f7&labelColor=37474f)](https://twitter.com/J5ONp)
+[![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=212121&logo=twitter&logoColor=ffffff)](https://twitter.com/J5ONp)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/jaseyoung/)
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/jaseyoung/)
 <img src="https://komarev.com/ghpvc/?username=JaseYoung&color=brightgreen" alt="JaseYoung" />
